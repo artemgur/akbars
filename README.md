@@ -14,5 +14,14 @@
 
 Это — задача регрессии.
 
-Папка проекта (содержит копию Jupyter Notebook и видео):
+Папка проекта (содержит копию Jupyter Notebook и полную версию видео):
 https://drive.google.com/drive/folders/1Cr45wv1KU0VKtiE02soPdUN53tHTyop6?usp=sharing
+
+YouTube
+Из-за 15-минутного ограничения на видео доступны 2 варианта:
+Сокращенная версия:
+https://youtu.be/C-a_N-PLoAc
+Ускоренная версия (видео ускорено на 20%)
+https://youtu.be/Vslr2ShvZk8
+
+Для более полной презентации проекта я рекомендую смотреть полную версию с Google Drive или ускоренную версию с YouTube.
