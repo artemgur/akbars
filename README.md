@@ -14,11 +14,11 @@
 
 Это — задача регрессии.
 
-Папка проекта (содержит копию Jupyter Notebook и полную версию видео):
+### Папка проекта (содержит копию Jupyter Notebook и полную версию видео):
 
 https://drive.google.com/drive/folders/1Cr45wv1KU0VKtiE02soPdUN53tHTyop6?usp=sharing
 
-YouTube
+### YouTube
 
 Из-за 15-минутного ограничения на видео доступны 2 варианта:
 
