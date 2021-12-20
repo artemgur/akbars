@@ -13,3 +13,6 @@
 Имеются данные за 2017 и 2018 год.
 
 Это — задача регрессии.
+
+Папка проекта (содержит копию Jupyter Notebook и видео):
+https://drive.google.com/drive/folders/1Cr45wv1KU0VKtiE02soPdUN53tHTyop6?usp=sharing
